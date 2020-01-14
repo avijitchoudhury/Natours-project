@@ -18,5 +18,8 @@
   "homepage": "https://github.com/avijitchoudhury/Natours-project#readme",
   "devDependencies": {
     "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "@icon/linea-basic": "^1.0.0"
   }
 }
